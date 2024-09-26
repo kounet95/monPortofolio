@@ -1,0 +1,9 @@
+#nav-bar {
+    height: 60px; /* Hauteur de la barre de navigation */
+    width: 100%; /* Largeur complète */
+    position: fixed; /* Position fixe en haut */
+    top: 0; /* En haut de la fenêtre */
+    left: 0; /* Bord gauche */
+    background-color: #333; /* Couleur de fond de la barre de navigation */
+    z-index: 1000; /* Assure que la barre de navigation est au-dessus des autres éléments */
+  }
